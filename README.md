@@ -1,4 +1,4 @@
-# 🌍 Mon Site Web - [Titre de ton site]
+# 🌍 Mon Blog
 
 Bienvenue sur le dépôt GitHub de mon site web !  
 Ce site a été conçu pour [décris rapidement l’objectif : partager des annonces, apprendre le code, créer des designs, etc.].
